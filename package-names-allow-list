@@ -1,0 +1,8 @@
+com.google.gson.internal
+com.google.gson.internal.bind
+com.google.gson.stream
+com.google.gson.internal.reflect
+com.google.gson
+com.google.gson.internal.bind.util
+com.google.gson.annotations
+com.google.gson.reflect
